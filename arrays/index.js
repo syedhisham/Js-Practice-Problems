@@ -10,5 +10,7 @@ fruitsArray[max] = "red";
 console.log("Array after adding element to the end", fruitsArray);
 fruitsArray.shift();
 console.log("Array after shifting", fruitsArray);
+fruitsArray.push('Peach')
+console.log("Array after pushing", fruitsArray);
 
 // Step 2: Array Methods
