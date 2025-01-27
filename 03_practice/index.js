@@ -56,13 +56,12 @@ let inputString2 = "silent";
 // const result = groupAnagrams(input);
 // console.log(result);
 
+// const text = "hello world hello everyone";
+// const wordCounts = {};
 
-const text = "hello world hello everyone";
-const wordCounts = {};
+// for (const word of text.split(" ")) {
+//     wordCounts[word] = (wordCounts[word] || 0) + 1; 
+// }
 
-for (const word of text.split(" ")) {
-    wordCounts[word] = (wordCounts[word] || 0) + 1; 
-}
-
-console.log(wordCounts);
+// console.log(wordCounts);
 
