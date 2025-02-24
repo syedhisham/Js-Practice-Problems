@@ -77,7 +77,37 @@
 // }
 
 
+//! Composition: combine strings into a longer string. Methods include padStart(), padEnd(), concat(), and repeat().
 
+// let str = '1234'
+// console.log(str.padStart(7, 0));
+
+// let str2 = '1234'
+// console.log(str.padEnd(7, 0));
+
+// let str3 = "hisham ";
+// let str4 = "shah";
+// console.log(str3.concat(" ", str4, "!"));
+
+// console.log(str3.repeat(4));
+
+
+//! Decomposition: break a string into smaller strings. Methods include split(), slice(), substring(), substr(), trim(), trimStart(), and trimEnd().
+
+// let str = "Hisham,Hammad,Alyan";
+// console.log(str.split(","));
+
+// console.log(str.slice(0, 4));
+
+// console.log(str.substring(0, 4));
+
+// let str2 = '   Hisham     '
+// console.log(str2.trim())
+
+// console.log(str2.trimStart())
+
+// console.log(str2.trimEnd())
+    
 
 
 
